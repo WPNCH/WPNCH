@@ -6,7 +6,7 @@ achieve my dream.
 ___My Background___
 
 - I graduated in the bachelor of Engineering, Petroleum Engineer with gold medal first class honor graduation. However, After, Internship programs in Oil and Gas field,
-I found my real behevior and desier. I am not fit to work in field but prefer back office or support. So, I decided to start learning a new things, It was The Data, 
+I found my real behevior and desire. I am not fit to work in field but prefer back office or support. So, I decided to start learning a new things, It was The Data, 
 
 - After I put a lot of efford into them, Now, I am working in the data world and I found the data world is really huge. So, I hope I will get any opportunity to learn a new thing every single day.
 
