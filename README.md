@@ -1,4 +1,4 @@
-# Hi, I'm WPNCH /W___ap_t N___O
+# Hi, I'm WPNCH /Weerapat Nuncho
 
 I am a Data Analyst, working for the automotive dealer company, I have a strong interest to the world of data, Now, I am working hard to gain any experience that will help me
 achieve my dream.
