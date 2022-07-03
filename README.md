@@ -20,7 +20,7 @@ I am a Data Analyst, working for the automotive dealer company, I have a strong 
 [>>> Simple Web Application Using Node.js Framework with SQL Database <<<](https://github.com/WPNCH/NodeJS_WebApplication)
 
 
-**Machine Learning Mode**
+**Machine Learning Model**
 
 [>>> Machine Learning Showcase Hyper Parameters Tuning <<<](https://github.com/WPNCH/MachineLearningPlayGround)
 
