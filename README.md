@@ -7,7 +7,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weerapat-nuncho-0258231b9)
 [![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Weerapat_Nuncho@hotmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/WeerapatNuncho)
+
 
 
 I am a Data Analyst, working for the automotive dealer company, I have a strong interest to the world of data and programing, I delivered many things for my current company, I can reach some part of my delivered projects below
