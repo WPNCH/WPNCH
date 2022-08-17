@@ -38,7 +38,7 @@ I found my real behevior and desire. I am not fit to work in field but prefer ba
 - After I put a lot of efford into them, Now, I am working in the data world and I found the data world is really huge. So, I hope I will get any opportunity to learn a new thing every single day.
 
 ___My Acheievments & Experience___
-- I developed and deployed the first Datawarhouse for my current company.
+- I developed and deployed the Datawarhouse for my current company.
 - I built tons of analytic reports and dashboards that connected to the Datawarehouse.
 - I implement many automatic ETL Packages across a billion of data row.
 - I developed many small web applications for  thoudsands of user (Frontend/Backend)
