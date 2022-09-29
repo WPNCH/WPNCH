@@ -10,7 +10,7 @@
 
 
 
-I am a Data Analyst, working for the automotive dealer company, I have a strong interest to the world of data and programing, I delivered many things for my current company, I can reach some part of my delivered projects below
+I am a Data Analyst, who dedicated most of spare time for learning new things in the world, I have a strong interest to the world of data and programming, I delivered many products and solutions in the real world. You can reach some part of my delivered projects as below
 
 
 **Data Transfer and API Interface**
@@ -48,7 +48,8 @@ __My Interest__
 - I am interested in Data and Software, I am studying hard to learn many nessessary tool for developing my own software and Web-Application.
 - I am also interested in investing world likes Stock-Market,Foreign Exchange, Crypto Currency.
 
-
+__Personal Note__
+Nowaday, boundary of knowledge stack is broken, unexpandable container should be broken as well
 <!---
 WPNCH/WPNCH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
