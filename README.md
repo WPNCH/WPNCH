@@ -10,7 +10,7 @@
 
 
 
-I am a Data Analyst, who dedicated most of spare time for learning new things in the world, I have a strong interest to the world of data and programming, I delivered many products and solutions in the real world. You can reach some part of my delivered projects as below
+I am a Marketing Automation Developer and Consultant, ETL Developer, Business Intelligence Developer, who dedicated most of spare time for learning new things in the world, I have a strong interest to the world of data and programming, I delivered many products and solutions in the real world. You can reach some part of my delivered projects as below
 
 
 **Data Transfer and API Interface**
@@ -38,11 +38,12 @@ I found my real behevior and desire. I am not fit to work in field but prefer ba
 - After I put a lot of efford into them, Now, I am working in the data world and I found the data world is really huge. So, I hope I will get any opportunity to learn a new thing every single day.
 
 ___My Acheievments & Experience___
-- I developed and deployed the Datawarhouse for my current company.
-- I built tons of analytic reports and dashboards that connected to the Datawarehouse.
-- I implement many automatic ETL Packages across a billion of data row.
-- I developed many small web applications for  thoudsands of user (Frontend/Backend)
-- I did many many thing related to data analytic
+- Developed and deployed the Datawarhouse and Database.
+- Built tons of analytical reports business intelligence dashboards.
+- Implement many automatic ETL Packages across a billion of data row.
+- Developed many small web applications for thoudsands of user (Frontend/Backend)
+- Developed Marketing Automation plateform such as Salesforce Marketing Cloud, Braze
+- Mananged and provided consultant in terms of data and marketing automation solution, reducing workload by using technologies.
 
 __My Interest__
 - I am interested in Data and Software, I am studying hard to learn many nessessary tool for developing my own software and Web-Application.
